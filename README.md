@@ -14,9 +14,5 @@ This project was completed as part of my **IBM Professional Data Analysis Certif
 ### 🏆 Certification
 
 This project is a requirement for my **IBM Professional Data Analysis Certification**.\
-View My IBM Certificate
-## 🎓 Certification  
-I have successfully completed the **IBM Professional Data Analysis Certification**.  
-[View IBM Certificate](IBM.pdf)
-
+[View IBM Certificate](https://coursera.org/share/5454b030d73dbc8efc1dd15482055948)
 
