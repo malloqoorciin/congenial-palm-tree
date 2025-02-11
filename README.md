@@ -5,11 +5,11 @@ This project was completed as part of my **IBM Professional Data Analysis Certif
 - **Demographic analysis** 
 
 ### 📊 Key Features
-✅ Data Collection using **API & Webscraping**\
+✅ Data Collection using **APIs & Web scraping**\
 ✅ Data cleaning and processing using **Pandas & NumPy**\
 ✅ Data visualization with **Matplotlib & Seaborn**\
 ✅ Insights into tech trends and developer preferences
-✅ Dashboard usnig Cognos Data anaytics
+✅ Dashboard Creation usnig Cognos Data anaytics
 
 ### 🏆 Certification
 
