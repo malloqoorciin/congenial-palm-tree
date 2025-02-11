@@ -9,6 +9,7 @@ This project was completed as part of my **IBM Professional Data Analysis Certif
 ✅ Data cleaning and processing using **Pandas & NumPy**\
 ✅ Data visualization with **Matplotlib & Seaborn**\
 ✅ Insights into tech trends and developer preferences
+
 ✅ Dashboard Creation usnig Cognos Data anaytics
 
 ### 🏆 Certification
